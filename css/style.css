@@ -1,3 +1,11 @@
 * {
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+div {
+    background: silver;
+}
+
+#div1 {
+    background: red;
+}
