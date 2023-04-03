@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $("#btnProductos").click(function(){
+        $("#content").load("/apps/productos/index.html");
+    });
+    $("#btn-page2").click(function(){
+        $("#content").load("page2.html");
+    });
+    $("#btnLogin").click(function(){
+        $("#content").load("page3.html");
+    });
+});

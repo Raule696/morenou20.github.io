@@ -1,11 +1,58 @@
 * {
-    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto Thin", sans-serif;
+    color: black;
 }
 
-div {
-    background: silver;
+body {
+    background: mintcream;
 }
 
-#div1 {
-    background: red;
+
+#navbarMenu {
+    background: transparent;
+}
+
+#nav {
+    background: lightseagreen;
+}
+
+
+#btnProductos {
+    color: whitesmoke;
+}
+
+#btnProductos:hover {
+    color: black;
+}
+
+#btnProductos:active {
+    color: black;
+}
+
+#btnPrincipal{
+    color: whitesmoke;
+}
+
+#btnPrincipal:hover {
+    color: black;
+}
+
+#btnServicios {
+    color: whitesmoke;
+}
+
+#btnServicios:hover{
+    color: black;
+}
+
+#btnLogin{
+    color: whitesmoke;
+}
+
+#btnLogin:hover{
+    color: black;
+}
+
+#btnLogin:active{
+    color: black;
 }
